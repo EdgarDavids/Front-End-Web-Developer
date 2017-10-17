@@ -1,0 +1,55 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    width:50%;
+    /*float:clear;*/
+}
+
+header{
+    border-bottom: black 3px solid;
+    margin-bottom:10px;
+}
+
+header span{
+    color: lightskyblue;
+}
+
+header h1{
+    display:inline-block;
+    width:60%;
+}
+
+header section{
+    width:30%;
+    display:inline-block;
+}
+
+ul{
+    list-style-type: none;
+}
+
+article{
+    background-color: lightgray;
+    width:65%;
+    float:left;
+    margin-top:10px;
+}
+
+.rightside{
+    float:right;
+    width:30%;
+}
+
+.fullwidth{
+    width:100%;
+    float: left;
+}
+
+footer{
+    margin: auto;
+}
+
+.semanticpart{
+    min-height:500px;
+}
+
